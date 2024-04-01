@@ -1,9 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Digilocker Design
 draft: false
 tags:
-  - index
+  - design
 ---
+
+This guide will give you a rundown of the specifications and workflows used in the design & development of assets for the games at Digilocker Design.
+
+
 
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
